@@ -1,0 +1,93 @@
+body{
+    font-family: "Poppins", sans-serif;
+    background-color: rgb(1, 1, 49);
+    color: white;
+        }
+#about{
+    margin-left: 100px;
+}        
+div h1{
+    margin-left: 100px;
+    margin-top: 100px;
+    color:  blueviolet;
+}        
+.intro{
+    font-family: "Poppins", sans-serif;
+ 
+    margin-left: 100px;
+    width: 30%;
+    height: 200px;
+    border-radius:10px ;
+    text-align:justify;
+    margin-top: 10px;
+    
+}
+#about h1{
+    font-size: 30px;
+}
+.intro h3{
+    font-size: 30px;
+}
+
+.heading{
+    margin-top: 10px;
+}
+.skills{
+    width: 30%;
+    font-size: 30px;
+    position: relative;
+    top:400px;
+    margin-left:100px;
+}
+.skills h5{
+    box-shadow: 20px 10px 10px  black;
+    background-color: black;
+    box-sizing: content-box;
+   background-color:rgb(3, 3, 2);
+}
+
+.skills h2{
+    color: blueviolet;
+}
+
+.rightside{
+    width: 30%;
+    position: relative;
+    border-radius:10px ;
+    font-size: 30px;
+    left: 1100px;
+    bottom: 600px;
+    
+}
+.rightside p{
+    
+    font-weight: lighter;
+    box-shadow: 10px 10px 10px black;
+
+   background-color:rgb(5, 5, 5);
+    background-size: cover;
+}
+.rightside h3{
+    color:  blueviolet;
+}
+.bottomside{
+    width: 30%;
+    font-size: 30px;
+    height: 300px;
+    position: relative;
+    left: 1100px;
+    bottom: 500px;
+}
+.bottomside h3{
+    color: blueviolet ;
+}
+.bottomside h4{
+    box-shadow: 10px 10px 10px black;
+    background-color: black;
+   background-color:rgb(12, 12, 12);
+
+}
+.past{
+    margin-left: 200px;
+    margin-top: 30px;
+}
